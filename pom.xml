@@ -381,6 +381,7 @@
                 <configuration>
                     <noDeploy>true</noDeploy>
                     <noReleaseBuild>true</noReleaseBuild>
+                    <noFeatureBuild>true</noFeatureBuild>
                 </configuration>
             </plugin>
 			<plugin>
