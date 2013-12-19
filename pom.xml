@@ -382,6 +382,7 @@
                     <noDeploy>true</noDeploy>
                     <noReleaseBuild>true</noReleaseBuild>
                     <noFeatureBuild>true</noFeatureBuild>
+                    <noHotfixBuild>true</noHotfixBuild>
                 </configuration>
             </plugin>
 			<plugin>
